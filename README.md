@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">- Farmeto Malaysia Sd. BhD <a href="https://farmetomalaysia.com/" > farmetomalaysia.com<a/><br>- MA INSIGHTS - AI Intelligent Video Analysis. <a href="https://ma-insights.techniaa.com/" > /ma-insights.techniaa.com </a><br>- SoftHive - IT Company <a href="https://soft-hive.com/">soft-hive.com </a></p>
+<p align="left">- Farmeto Malaysia Sd. BhD <a href="https://farmetomalaysia.com/" > farmetomalaysia.com<a/><br>- MA INSIGHTS - AI Intelligent Video Analysis. <a href="https://ma-insights.techniaa.com/" > ma-insights.techniaa.com </a><br>- SoftHive - IT Company <a href="https://soft-hive.com/">soft-hive.com </a></p>
 
 ###
 
