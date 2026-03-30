@@ -33,11 +33,23 @@
 
 ###
 
-<h3 align="left">👩‍💻  Some of My Works</h3>
+<h3 align="left">⚡  Some of My Works</h3>
 
 ###
 
-<p align="left"><strong> PHP Laravel </strong><br>- Tasharuky Crawd Funding Platform :  <a href="https://tasharuky.com"> www.tasharuky.com </a><br>- <br><strong> Wordpress </strong><br>- Farmeto Malaysia Sd. BhD <a href="https://farmetomalaysia.com/" > farmetomalaysia.com<a/></p>
+<h4 align="left">PHP Laravel</h4>
+
+###
+
+<p align="left">- Tasharuky Crawd Funding Platform :  <a href="https://tasharuky.com"> tasharuky.com </a><br>- Vemora - Animal Nutrition <a href="https://vemoravet.com/">vemoravet.com</a><br>- Ain Labs - AI Solutions : <a href="https://ain-labs.com/">ain-labs.com</a></p>
+
+###
+
+<h4 align="left">Wordpress</h4>
+
+###
+
+<p align="left">- Farmeto Malaysia Sd. BhD <a href="https://farmetomalaysia.com/" > farmetomalaysia.com<a/><br>- MA INSIGHTS - AI Intelligent Video Analysis. <a href="https://ma-insights.techniaa.com/" > /ma-insights.techniaa.com </a><br>- SoftHive - IT Company <a href="https://soft-hive.com/">soft-hive.com </a></p>
 
 ###
 
