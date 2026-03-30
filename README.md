@@ -33,6 +33,14 @@
 
 ###
 
+<h3 align="left">👩‍💻  Some of My Works</h3>
+
+###
+
+<p align="left"><strong> PHP Laravel </strong><br>- Tasharuky Crawd Funding Platform :  <a href="https://tasharuky.com"> www.tasharuky.com </a><br>- <br><strong> Wordpress </strong><br>- Farmeto Malaysia Sd. BhD <a href="https://farmetomalaysia.com/" > farmetomalaysia.com<a/></p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -67,4 +75,8 @@
   <img src="https://streak-stats.demolab.com?user=m-oudah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/m-oudah/m-oudah/output/snake.svg" alt="Snake animation" />
+
+###
